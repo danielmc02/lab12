@@ -1,9 +1,9 @@
 """
 main.py
 
-Names:
-Date:
-Brief: Thanksgiving Dinner game using the Decorator Pattern. The user
+Names: Jimmy Le & Daniel McCray
+Date: 11/12/25
+Description: Thanksgiving Dinner game using the Decorator Pattern. The user
 selects a plate and adds foods without exceeding area or weight limits.
 """
 
